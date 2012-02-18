@@ -1,0 +1,7 @@
+Spanish-Vocab-Helper
+
+A simple Python program to help improve someone's Spanish vocabulary.  Useful for those new to learning the language.
+
+The program prompts the user to specify the location of the CSV file containing the list of Spanish words and their meaning in English.  The format of the CSV file must be Spanis-word,English-meaning.
+
+Tip: Use Google Spreadsheet to enter the words then export it to CSV format.
